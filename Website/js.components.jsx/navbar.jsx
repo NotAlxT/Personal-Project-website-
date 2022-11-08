@@ -1,6 +1,6 @@
 import React from "react";
 import ReactDOM from "react-dom";
-const Navbar = () => {
+/*const Navbar = () => {
     return (
         <div>
             <li>
@@ -17,5 +17,5 @@ const Navbar = () => {
             </li>
         </div>
     )
-}
+}*/
 export default Navbar ;
