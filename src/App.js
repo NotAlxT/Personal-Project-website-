@@ -1,10 +1,11 @@
 import React from 'react';
 
-import {Navbar} from './components';
+import {Navbar, Header, Footer} from './components';
+
 
 const App = () =>{
     return(
-        <div calssName='App'>
+        <div className='App'>
             <div /* add style className here*/ >
                 <Navbar />
                 <Header />
